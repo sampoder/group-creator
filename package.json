@@ -8,7 +8,6 @@
     "chalk": "^4.1.0",
     "cli-table": "^0.3.4",
     "gradient-string": "^1.2.0",
-    "inquirer": "^7.3.3",
-    "yargs": "^16.2.0"
+    "inquirer": "^7.3.3"
   }
 }
