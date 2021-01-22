@@ -12,6 +12,8 @@ It can then be ran by running `node index.js [FILEPATH]`
 
 It can then be ran by running `node clean.js [FILEPATH] [HEADER TO SORT BY] [ORDER TO SORT BY: asc/desc] [REMINDER HANDLING: redistribute/separate] [AMOUNT OF PEOPLE PER GROUP]`
 
+To download the project files visit [go.sampoder.com/nlcs](https://go.sampoder.com/nlcs)
+
 Note: in the code comments I refer to headers. Both JSON & CSV data types name these differently. A header refers to something such as "Name" similar to a spreadsheet header.
 
 **`index.js`**
