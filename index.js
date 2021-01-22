@@ -285,7 +285,7 @@ function askIntroQuestions() {
         name: "sortingHeader",
         message: `Thank you for importing ${highlightText(
           filePath
-        )}, what would you like to do? \n`,
+        )}, what would you like to sort by? \n`,
         choices: headers,
       },
       {
